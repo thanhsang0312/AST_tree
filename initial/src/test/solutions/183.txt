@@ -1,0 +1,1 @@
+static;22,volatile;50,long;50,long;50,incircle;50,=;33,0;44,;;40,pthread_mutex_t;50,lock;50,;;40,<EOF>

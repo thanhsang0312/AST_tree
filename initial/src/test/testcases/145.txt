@@ -1,0 +1,1 @@
+bool[2] x = {false && x || y,(true == z)||t};

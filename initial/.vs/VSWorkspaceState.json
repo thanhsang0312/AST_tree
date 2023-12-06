@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\bkool",
+    "\\src\\main\\bkool\\astgen",
+    "\\src\\main\\bkool\\utils"
+  ],
+  "SelectedNode": "\\src\\main\\bkool\\utils\\AST.py",
+  "PreviewInSolutionExplorer": false
+}

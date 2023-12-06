@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\main",
+    "\\main\\bkool",
+    "\\main\\bkool\\astgen",
+    "\\main\\bkool\\parser",
+    "\\main\\bkool\\utils"
+  ],
+  "SelectedNode": "\\main\\bkool\\parser\\BKOOL.g4",
+  "PreviewInSolutionExplorer": false
+}
